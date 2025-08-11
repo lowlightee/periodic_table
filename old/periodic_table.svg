@@ -1,0 +1,904 @@
+<svg width="3200" height="1800" viewBox="0 0 3200 1800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="3200" height="1800" fill="white"/>
+<path d="M480 1564C480 1555.6 480 1551.4 481.635 1548.19C483.073 1545.37 485.368 1543.07 488.19 1541.63C491.399 1540 495.599 1540 504 1540H516C524.401 1540 528.601 1540 531.81 1541.63C534.632 1543.07 536.927 1545.37 538.365 1548.19C540 1551.4 540 1555.6 540 1564V1636C540 1644.4 540 1648.6 538.365 1651.81C536.927 1654.63 534.632 1656.93 531.81 1658.37C528.601 1660 524.401 1660 516 1660H504C495.599 1660 491.399 1660 488.19 1658.37C485.368 1656.93 483.073 1654.63 481.635 1651.81C480 1648.6 480 1644.4 480 1636V1564Z" fill="#ECA360"/>
+<rect x="420" y="1180" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M480 1250C485.523 1250 490 1245.52 490 1240C490 1234.48 485.523 1230 480 1230C474.477 1230 470 1234.48 470 1240C470 1245.52 474.477 1250 480 1250Z" fill="#1E1E1E"/>
+<path d="M430 1240C430 1231.22 432.31 1222.6 436.699 1215C441.087 1207.4 447.399 1201.09 455 1196.7L471 1224.41C468.264 1225.99 465.991 1228.26 464.412 1231C462.832 1233.74 462 1236.84 462 1240L430 1240Z" fill="#1E1E1E"/>
+<path d="M505 1283.3C497.399 1287.69 488.777 1290 480 1290C471.223 1290 462.601 1287.69 455 1283.3L471 1255.59C473.736 1257.17 476.84 1258 480 1258C483.16 1258 486.264 1257.17 489 1255.59L505 1283.3Z" fill="#1E1E1E"/>
+<path d="M505 1196.7C512.601 1201.09 518.913 1207.4 523.301 1215C527.69 1222.6 530 1231.22 530 1240L498 1240C498 1236.84 497.168 1233.74 495.588 1231C494.009 1228.26 491.736 1225.99 489 1224.41L505 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="431.016" y="1250.25">89-103</tspan></text>
+<path d="M480 1424C480 1415.6 480 1411.4 481.635 1408.19C483.073 1405.37 485.368 1403.07 488.19 1401.63C491.399 1400 495.599 1400 504 1400H516C524.401 1400 528.601 1400 531.81 1401.63C534.632 1403.07 536.927 1405.37 538.365 1408.19C540 1411.4 540 1415.6 540 1424V1496C540 1504.4 540 1508.6 538.365 1511.81C536.927 1514.63 534.632 1516.93 531.81 1518.37C528.601 1520 524.401 1520 516 1520H504C495.599 1520 491.399 1520 488.19 1518.37C485.368 1516.93 483.073 1514.63 481.635 1511.81C480 1508.6 480 1504.4 480 1496V1424Z" fill="#ECD660"/>
+<rect x="420" y="1040" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="439.629" y="1110.25">57-71</tspan></text>
+<rect x="2520" y="1180" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<g opacity="0.2">
+<path d="M2580 1250C2585.52 1250 2590 1245.52 2590 1240C2590 1234.48 2585.52 1230 2580 1230C2574.48 1230 2570 1234.48 2570 1240C2570 1245.52 2574.48 1250 2580 1250Z" fill="#F0F0F0"/>
+<path d="M2530 1240C2530 1231.22 2532.31 1222.6 2536.7 1215C2541.09 1207.4 2547.4 1201.09 2555 1196.7L2571 1224.41C2568.26 1225.99 2565.99 1228.26 2564.41 1231C2562.83 1233.74 2562 1236.84 2562 1240L2530 1240Z" fill="#F0F0F0"/>
+<path d="M2605 1283.3C2597.4 1287.69 2588.78 1290 2580 1290C2571.22 1290 2562.6 1287.69 2555 1283.3L2571 1255.59C2573.74 1257.17 2576.84 1258 2580 1258C2583.16 1258 2586.26 1257.17 2589 1255.59L2605 1283.3Z" fill="#F0F0F0"/>
+<path d="M2605 1196.7C2612.6 1201.09 2618.91 1207.4 2623.3 1215C2627.69 1222.6 2630 1231.22 2630 1240L2598 1240C2598 1236.84 2597.17 1233.74 2595.59 1231C2594.01 1228.26 2591.74 1225.99 2589 1224.41L2605 1196.7Z" fill="#F0F0F0"/>
+</g>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2534.56" y="1291.15">Oganesson</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2542.18" y="1260.51">Og</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2586.37" y="1206.15">(294)</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="1206.15">118</tspan></text>
+<rect x="2520" y="1040" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<g opacity="0.2">
+<path d="M2580 1110C2585.52 1110 2590 1105.52 2590 1100C2590 1094.48 2585.52 1090 2580 1090C2574.48 1090 2570 1094.48 2570 1100C2570 1105.52 2574.48 1110 2580 1110Z" fill="#F0F0F0"/>
+<path d="M2530 1100C2530 1091.22 2532.31 1082.6 2536.7 1075C2541.09 1067.4 2547.4 1061.09 2555 1056.7L2571 1084.41C2568.26 1085.99 2565.99 1088.26 2564.41 1091C2562.83 1093.74 2562 1096.84 2562 1100L2530 1100Z" fill="#F0F0F0"/>
+<path d="M2605 1143.3C2597.4 1147.69 2588.78 1150 2580 1150C2571.22 1150 2562.6 1147.69 2555 1143.3L2571 1115.59C2573.74 1117.17 2576.84 1118 2580 1118C2583.16 1118 2586.26 1117.17 2589 1115.59L2605 1143.3Z" fill="#F0F0F0"/>
+<path d="M2605 1056.7C2612.6 1061.09 2618.91 1067.4 2623.3 1075C2627.69 1082.6 2630 1091.22 2630 1100L2598 1100C2598 1096.84 2597.17 1093.74 2595.59 1091C2594.01 1088.26 2591.74 1085.99 2589 1084.41L2605 1056.7Z" fill="#F0F0F0"/>
+</g>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2554.22" y="1151.15">Radon</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2543.96" y="1120.51">Rn</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2586.37" y="1066.15">(222)</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="1066.15">86</tspan></text>
+<rect x="2520" y="900" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2554.37" y="1011.15">Xenon</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2545.14" y="980.508">Xe</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2573.1" y="926.152">131.29</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="926.152">54</tspan></text>
+<rect x="2520" y="760" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2548.25" y="871.152">Krypton</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2549.94" y="840.508">Kr</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2573.1" y="786.152">83.798</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="786.152">36</tspan></text>
+<rect x="2520" y="620" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2555.48" y="731.152">Argon</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2548.86" y="700.508">Ar</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2583.44" y="646.152">39.95</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="646.152">18</tspan></text>
+<rect x="2520" y="480" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2558.66" y="591.152">Neon</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2542.62" y="560.508">Ne</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2573.1" y="506.152">20.180</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="506.152">10</tspan></text>
+<rect x="2520" y="340" width="120" height="120" rx="15" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2551.18" y="451.152">Helium</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2542.62" y="420.508">He</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2573.1" y="366.152">4.0026</tspan></text>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="366.152">2</tspan></text>
+<rect x="2380" y="1180" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<g opacity="0.2">
+<path d="M2440 1250C2445.52 1250 2450 1245.52 2450 1240C2450 1234.48 2445.52 1230 2440 1230C2434.48 1230 2430 1234.48 2430 1240C2430 1245.52 2434.48 1250 2440 1250Z" fill="#1E1E1E"/>
+<path d="M2390 1240C2390 1231.22 2392.31 1222.6 2396.7 1215C2401.09 1207.4 2407.4 1201.09 2415 1196.7L2431 1224.41C2428.26 1225.99 2425.99 1228.26 2424.41 1231C2422.83 1233.74 2422 1236.84 2422 1240L2390 1240Z" fill="#1E1E1E"/>
+<path d="M2465 1283.3C2457.4 1287.69 2448.78 1290 2440 1290C2431.22 1290 2422.6 1287.69 2415 1283.3L2431 1255.59C2433.74 1257.17 2436.84 1258 2440 1258C2443.16 1258 2446.26 1257.17 2449 1255.59L2465 1283.3Z" fill="#1E1E1E"/>
+<path d="M2465 1196.7C2472.6 1201.09 2478.91 1207.4 2483.3 1215C2487.69 1222.6 2490 1231.22 2490 1240L2458 1240C2458 1236.84 2457.17 1233.74 2455.59 1231C2454.01 1228.26 2451.74 1225.99 2449 1224.41L2465 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2393.49" y="1291.15">Tennessine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2407.28" y="1260.51">Ts</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2446.37" y="1206.15">(294)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="1206.15">117</tspan></text>
+<rect x="2380" y="1040" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<g opacity="0.2">
+<path d="M2440 1110C2445.52 1110 2450 1105.52 2450 1100C2450 1094.48 2445.52 1090 2440 1090C2434.48 1090 2430 1094.48 2430 1100C2430 1105.52 2434.48 1110 2440 1110Z" fill="#1E1E1E"/>
+<path d="M2390 1100C2390 1091.22 2392.31 1082.6 2396.7 1075C2401.09 1067.4 2407.4 1061.09 2415 1056.7L2431 1084.41C2428.26 1085.99 2425.99 1088.26 2424.41 1091C2422.83 1093.74 2422 1096.84 2422 1100L2390 1100Z" fill="#1E1E1E"/>
+<path d="M2465 1143.3C2457.4 1147.69 2448.78 1150 2440 1150C2431.22 1150 2422.6 1147.69 2415 1143.3L2431 1115.59C2433.74 1117.17 2436.84 1118 2440 1118C2443.16 1118 2446.26 1117.17 2449 1115.59L2465 1143.3Z" fill="#1E1E1E"/>
+<path d="M2465 1056.7C2472.6 1061.09 2478.91 1067.4 2483.3 1075C2487.69 1082.6 2490 1091.22 2490 1100L2458 1100C2458 1096.84 2457.17 1093.74 2455.59 1091C2454.01 1088.26 2451.74 1085.99 2449 1084.41L2465 1056.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2406.13" y="1151.15">Astatine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2409.94" y="1120.51">At</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2446.37" y="1066.15">(210)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="1066.15">85</tspan></text>
+<rect x="2380" y="900" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2414.92" y="1011.15">Iodine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2431.21" y="980.508">I</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2433.1" y="926.152">126.90</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="926.152">53</tspan></text>
+<rect x="2380" y="760" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2405.92" y="871.152">Bromine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2409.85" y="840.508">Br</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2433.1" y="786.152">79.904</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="786.152">35</tspan></text>
+<rect x="2380" y="620" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2406.02" y="731.152">Chlorine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2412.43" y="700.508">Cl</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2433.1" y="646.152">35.450</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="646.152">17</tspan></text>
+<rect x="2380" y="480" width="120" height="120" rx="15" fill="#EC9FFF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2406.97" y="591.152">Fluorine</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2423.54" y="560.508">F</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2433.1" y="506.152">18.998</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="506.152">9</tspan></text>
+<rect x="2240" y="1180" width="120" height="120" rx="15" fill="#63A8CF"/>
+<g opacity="0.2">
+<path d="M2300 1250C2305.52 1250 2310 1245.52 2310 1240C2310 1234.48 2305.52 1230 2300 1230C2294.48 1230 2290 1234.48 2290 1240C2290 1245.52 2294.48 1250 2300 1250Z" fill="#1E1E1E"/>
+<path d="M2250 1240C2250 1231.22 2252.31 1222.6 2256.7 1215C2261.09 1207.4 2267.4 1201.09 2275 1196.7L2291 1224.41C2288.26 1225.99 2285.99 1228.26 2284.41 1231C2282.83 1233.74 2282 1236.84 2282 1240L2250 1240Z" fill="#1E1E1E"/>
+<path d="M2325 1283.3C2317.4 1287.69 2308.78 1290 2300 1290C2291.22 1290 2282.6 1287.69 2275 1283.3L2291 1255.59C2293.74 1257.17 2296.84 1258 2300 1258C2303.16 1258 2306.26 1257.17 2309 1255.59L2325 1283.3Z" fill="#1E1E1E"/>
+<path d="M2325 1196.7C2332.6 1201.09 2338.91 1207.4 2343.3 1215C2347.69 1222.6 2350 1231.22 2350 1240L2318 1240C2318 1236.84 2317.17 1233.74 2315.59 1231C2314.01 1228.26 2311.74 1225.99 2309 1224.41L2325 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2248.7" y="1291.15">Livermorium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2270.44" y="1260.51">Lv</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2306.37" y="1206.15">(293)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="1206.15">116</tspan></text>
+<rect x="2240" y="1040" width="120" height="120" rx="15" fill="#63A8CF"/>
+<g opacity="0.2">
+<path d="M2300 1110C2305.52 1110 2310 1105.52 2310 1100C2310 1094.48 2305.52 1090 2300 1090C2294.48 1090 2290 1094.48 2290 1100C2290 1105.52 2294.48 1110 2300 1110Z" fill="#1E1E1E"/>
+<path d="M2250 1100C2250 1091.22 2252.31 1082.6 2256.7 1075C2261.09 1067.4 2267.4 1061.09 2275 1056.7L2291 1084.41C2288.26 1085.99 2285.99 1088.26 2284.41 1091C2282.83 1093.74 2282 1096.84 2282 1100L2250 1100Z" fill="#1E1E1E"/>
+<path d="M2325 1143.3C2317.4 1147.69 2308.78 1150 2300 1150C2291.22 1150 2282.6 1147.69 2275 1143.3L2291 1115.59C2293.74 1117.17 2296.84 1118 2300 1118C2303.16 1118 2306.26 1117.17 2309 1115.59L2325 1143.3Z" fill="#1E1E1E"/>
+<path d="M2325 1056.7C2332.6 1061.09 2338.91 1067.4 2343.3 1075C2347.69 1082.6 2350 1091.22 2350 1100L2318 1100C2318 1096.84 2317.17 1093.74 2315.59 1091C2314.01 1088.26 2311.74 1085.99 2309 1084.41L2325 1056.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2261.45" y="1151.15">Polonium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2263.94" y="1120.51">Po</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2306.37" y="1066.15">(209)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="1066.15">84</tspan></text>
+<rect x="2240" y="900" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2261.64" y="1011.15">Tellurium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2266.57" y="980.508">Te</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2293.1" y="926.152">127.60</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="926.152">52</tspan></text>
+<rect x="2240" y="760" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2262.08" y="871.152">Selenium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2265.31" y="840.508">Se</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2293.1" y="786.152">78.971</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="786.152">34</tspan></text>
+<rect x="2240" y="620" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2275.46" y="731.152">Sulfur</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2281.51" y="700.508">S</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2293.1" y="646.152">32.060</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="646.152">16</tspan></text>
+<rect x="2240" y="480" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2269.7" y="591.152">Oxygen</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2279.32" y="560.508">O</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2293.1" y="506.152">15.999</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="506.152">8</tspan></text>
+<rect x="2100" y="1180" width="120" height="120" rx="15" fill="#63A8CF"/>
+<g opacity="0.2">
+<path d="M2160 1250C2165.52 1250 2170 1245.52 2170 1240C2170 1234.48 2165.52 1230 2160 1230C2154.48 1230 2150 1234.48 2150 1240C2150 1245.52 2154.48 1250 2160 1250Z" fill="#1E1E1E"/>
+<path d="M2110 1240C2110 1231.22 2112.31 1222.6 2116.7 1215C2121.09 1207.4 2127.4 1201.09 2135 1196.7L2151 1224.41C2148.26 1225.99 2145.99 1228.26 2144.41 1231C2142.83 1233.74 2142 1236.84 2142 1240L2110 1240Z" fill="#1E1E1E"/>
+<path d="M2185 1283.3C2177.4 1287.69 2168.78 1290 2160 1290C2151.22 1290 2142.6 1287.69 2135 1283.3L2151 1255.59C2153.74 1257.17 2156.84 1258 2160 1258C2163.16 1258 2166.26 1257.17 2169 1255.59L2185 1283.3Z" fill="#1E1E1E"/>
+<path d="M2185 1196.7C2192.6 1201.09 2198.91 1207.4 2203.3 1215C2207.69 1222.6 2210 1231.22 2210 1240L2178 1240C2178 1236.84 2177.17 1233.74 2175.59 1231C2174.01 1228.26 2171.74 1225.99 2169 1224.41L2185 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2112.93" y="1291.15">Moscovium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2118.08" y="1260.51">Mc</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2166.37" y="1206.15">(290)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="1206.15">115</tspan></text>
+<rect x="2100" y="1040" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2126.31" y="1151.15">Bismuth</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2132.9" y="1120.51">Bi</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="1066.15">208.98</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="1066.15">83</tspan></text>
+<rect x="2100" y="900" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2121.16" y="1011.15">Antimony</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2124.64" y="980.508">Sb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="926.152">121.76</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="926.152">51</tspan></text>
+<rect x="2100" y="760" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2129.05" y="871.152">Arsenic</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2124.43" y="840.508">As</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="786.152">74.922</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="786.152">33</tspan></text>
+<rect x="2100" y="620" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2111.3" y="731.152">Phosphorus</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2140.66" y="700.508">P</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="646.152">30.974</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="646.152">15</tspan></text>
+<rect x="2100" y="480" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2124.92" y="591.152">Nitrogen</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2138.82" y="560.508">N</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="506.152">14.007</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="506.152">7</tspan></text>
+<rect x="1960" y="1180" width="120" height="120" rx="15" fill="#63A8CF"/>
+<g opacity="0.2">
+<path d="M2020 1250C2025.52 1250 2030 1245.52 2030 1240C2030 1234.48 2025.52 1230 2020 1230C2014.48 1230 2010 1234.48 2010 1240C2010 1245.52 2014.48 1250 2020 1250Z" fill="#1E1E1E"/>
+<path d="M1970 1240C1970 1231.22 1972.31 1222.6 1976.7 1215C1981.09 1207.4 1987.4 1201.09 1995 1196.7L2011 1224.41C2008.26 1225.99 2005.99 1228.26 2004.41 1231C2002.83 1233.74 2002 1236.84 2002 1240L1970 1240Z" fill="#1E1E1E"/>
+<path d="M2045 1283.3C2037.4 1287.69 2028.78 1290 2020 1290C2011.22 1290 2002.6 1287.69 1995 1283.3L2011 1255.59C2013.74 1257.17 2016.84 1258 2020 1258C2023.16 1258 2026.26 1257.17 2029 1255.59L2045 1283.3Z" fill="#1E1E1E"/>
+<path d="M2045 1196.7C2052.6 1201.09 2058.91 1207.4 2063.3 1215C2067.69 1222.6 2070 1231.22 2070 1240L2038 1240C2038 1236.84 2037.17 1233.74 2035.59 1231C2034.01 1228.26 2031.74 1225.99 2029 1224.41L2045 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1979.86" y="1291.15">Flerovium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1995.6" y="1260.51">Fl</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2026.37" y="1206.15">(289)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="1206.15">114</tspan></text>
+<rect x="1960" y="1040" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2000.38" y="1151.15">Lead</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1983.79" y="1120.51">Pb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="1066.15">207.20</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="1066.15">82</tspan></text>
+<rect x="1960" y="900" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2006.99" y="1011.15">Tin</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1984.7" y="980.508">Sn</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="926.152">118.71</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="926.152">50</tspan></text>
+<rect x="1960" y="760" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1972.83" y="871.152">Germanium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1983.35" y="840.508">Ge</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="786.152">72.630</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="786.152">32</tspan></text>
+<rect x="1960" y="620" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1990.11" y="731.152">Sillicon</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1993.57" y="700.508">Si</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="646.152">28.085</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="646.152">14</tspan></text>
+<rect x="1960" y="480" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1990.81" y="591.152">Carbon</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2000.37" y="560.508">C</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="506.152">12.011</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="506.152">6</tspan></text>
+<rect x="1820" y="1180" width="120" height="120" rx="15" fill="#63A8CF"/>
+<g opacity="0.2">
+<path d="M1880 1250C1885.52 1250 1890 1245.52 1890 1240C1890 1234.48 1885.52 1230 1880 1230C1874.48 1230 1870 1234.48 1870 1240C1870 1245.52 1874.48 1250 1880 1250Z" fill="#1E1E1E"/>
+<path d="M1830 1240C1830 1231.22 1832.31 1222.6 1836.7 1215C1841.09 1207.4 1847.4 1201.09 1855 1196.7L1871 1224.41C1868.26 1225.99 1865.99 1228.26 1864.41 1231C1862.83 1233.74 1862 1236.84 1862 1240L1830 1240Z" fill="#1E1E1E"/>
+<path d="M1905 1283.3C1897.4 1287.69 1888.78 1290 1880 1290C1871.22 1290 1862.6 1287.69 1855 1283.3L1871 1255.59C1873.74 1257.17 1876.84 1258 1880 1258C1883.16 1258 1886.26 1257.17 1889 1255.59L1905 1283.3Z" fill="#1E1E1E"/>
+<path d="M1905 1196.7C1912.6 1201.09 1918.91 1207.4 1923.3 1215C1927.69 1222.6 1930 1231.22 1930 1240L1898 1240C1898 1236.84 1897.17 1233.74 1895.59 1231C1894.01 1228.26 1891.74 1225.99 1889 1224.41L1905 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1840.87" y="1291.15">Nihonium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1842" y="1260.51">Nh</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1886.37" y="1206.15">(286)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="1206.15">113</tspan></text>
+<rect x="1820" y="1040" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1844.57" y="1151.15">Thallium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1853.46" y="1120.51">Tl</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="1066.15">204.38</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="1066.15">81</tspan></text>
+<rect x="1820" y="900" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1852.02" y="1011.15">Indium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1854.39" y="980.508">In</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="926.152">114.82</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="926.152">49</tspan></text>
+<rect x="1820" y="760" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1849.06" y="871.152">Gallium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1843.5" y="840.508">Ga</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="786.152">69.723</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="786.152">31</tspan></text>
+<rect x="1820" y="620" width="120" height="120" rx="15" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1836.08" y="731.152">Aluminium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1851.9" y="700.508">Al</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="646.152">26.982</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="646.152">13</tspan></text>
+<rect x="1820" y="480" width="120" height="120" rx="15" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1855.88" y="591.152">Boron</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1860.84" y="560.508">B</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="506.152">10.810</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="506.152">5</tspan></text>
+<rect x="1680" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1740 1250C1745.52 1250 1750 1245.52 1750 1240C1750 1234.48 1745.52 1230 1740 1230C1734.48 1230 1730 1234.48 1730 1240C1730 1245.52 1734.48 1250 1740 1250Z" fill="#1E1E1E"/>
+<path d="M1690 1240C1690 1231.22 1692.31 1222.6 1696.7 1215C1701.09 1207.4 1707.4 1201.09 1715 1196.7L1731 1224.41C1728.26 1225.99 1725.99 1228.26 1724.41 1231C1722.83 1233.74 1722 1236.84 1722 1240L1690 1240Z" fill="#1E1E1E"/>
+<path d="M1765 1283.3C1757.4 1287.69 1748.78 1290 1740 1290C1731.22 1290 1722.6 1287.69 1715 1283.3L1731 1255.59C1733.74 1257.17 1736.84 1258 1740 1258C1743.16 1258 1746.26 1257.17 1749 1255.59L1765 1283.3Z" fill="#1E1E1E"/>
+<path d="M1765 1196.7C1772.6 1201.09 1778.91 1207.4 1783.3 1215C1787.69 1222.6 1790 1231.22 1790 1240L1758 1240C1758 1236.84 1757.17 1233.74 1755.59 1231C1754.01 1228.26 1751.74 1225.99 1749 1224.41L1765 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1688.47" y="1291.15">Copernicium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1703.55" y="1260.51">Cn</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1746.37" y="1206.15">(285)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="1206.15">112</tspan></text>
+<rect x="1680" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1706.4" y="1151.15">Mercury</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1701.68" y="1120.51">Hg</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1733.1" y="1066.15">200.59</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="1066.15">80</tspan></text>
+<rect x="1680" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1701.21" y="1011.15">Cadmium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1703.47" y="980.508">Cd</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1733.1" y="926.152">112.41</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="926.152">48</tspan></text>
+<rect x="1680" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1722.41" y="871.152">Zinc</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1704.96" y="840.508">Zn</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1733.1" y="786.152">65.380</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="786.152">30</tspan></text>
+<rect x="1540" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1600 1250C1605.52 1250 1610 1245.52 1610 1240C1610 1234.48 1605.52 1230 1600 1230C1594.48 1230 1590 1234.48 1590 1240C1590 1245.52 1594.48 1250 1600 1250Z" fill="#1E1E1E"/>
+<path d="M1550 1240C1550 1231.22 1552.31 1222.6 1556.7 1215C1561.09 1207.4 1567.4 1201.09 1575 1196.7L1591 1224.41C1588.26 1225.99 1585.99 1228.26 1584.41 1231C1582.83 1233.74 1582 1236.84 1582 1240L1550 1240Z" fill="#1E1E1E"/>
+<path d="M1625 1283.3C1617.4 1287.69 1608.78 1290 1600 1290C1591.22 1290 1582.6 1287.69 1575 1283.3L1591 1255.59C1593.74 1257.17 1596.84 1258 1600 1258C1603.16 1258 1606.26 1257.17 1609 1255.59L1625 1283.3Z" fill="#1E1E1E"/>
+<path d="M1625 1196.7C1632.6 1201.09 1638.91 1207.4 1643.3 1215C1647.69 1222.6 1650 1231.22 1650 1240L1618 1240C1618 1236.84 1617.17 1233.74 1615.59 1231C1614.01 1228.26 1611.74 1225.99 1609 1224.41L1625 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1545.93" y="1291.15">Roentgenium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1563.64" y="1260.51">Rg</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1606.37" y="1206.15">(282)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="1206.15">111</tspan></text>
+<rect x="1540" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1581.33" y="1151.15">Gold</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1563.2" y="1120.51">Au</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1593.1" y="1066.15">196.97</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="1066.15">79</tspan></text>
+<rect x="1540" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1577.03" y="1011.15">Silver</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1562.71" y="980.508">Ag</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1593.1" y="926.152">107.87</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="926.152">47</tspan></text>
+<rect x="1540" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1570.75" y="871.152">Copper</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1563.55" y="840.508">Cu</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1593.1" y="786.152">63.546</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="786.152">29</tspan></text>
+<rect x="1400" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1460 1250C1465.52 1250 1470 1245.52 1470 1240C1470 1234.48 1465.52 1230 1460 1230C1454.48 1230 1450 1234.48 1450 1240C1450 1245.52 1454.48 1250 1460 1250Z" fill="#1E1E1E"/>
+<path d="M1410 1240C1410 1231.22 1412.31 1222.6 1416.7 1215C1421.09 1207.4 1427.4 1201.09 1435 1196.7L1451 1224.41C1448.26 1225.99 1445.99 1228.26 1444.41 1231C1442.83 1233.74 1442 1236.84 1442 1240L1410 1240Z" fill="#1E1E1E"/>
+<path d="M1485 1283.3C1477.4 1287.69 1468.78 1290 1460 1290C1451.22 1290 1442.6 1287.69 1435 1283.3L1451 1255.59C1453.74 1257.17 1456.84 1258 1460 1258C1463.16 1258 1466.26 1257.17 1469 1255.59L1485 1283.3Z" fill="#1E1E1E"/>
+<path d="M1485 1196.7C1492.6 1201.09 1498.91 1207.4 1503.3 1215C1507.69 1222.6 1510 1231.22 1510 1240L1478 1240C1478 1236.84 1477.17 1233.74 1475.59 1231C1474.01 1228.26 1471.74 1225.99 1469 1224.41L1485 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1402.41" y="1291.15">Darmstadtium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1425.08" y="1260.51">Ds</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1466.37" y="1206.15">(281)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="1206.15">110</tspan></text>
+<rect x="1400" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1423.68" y="1151.15">Platinum</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1430.29" y="1120.51">Pt</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1453.1" y="1066.15">195.08</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="1066.15">78</tspan></text>
+<rect x="1400" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1419.56" y="1011.15">Palladium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1423.96" y="980.508">Pd</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1453.1" y="926.152">106.42</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="926.152">46</tspan></text>
+<rect x="1400" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1434.61" y="871.152">Nickel</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1430.88" y="840.508">Ni</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1453.1" y="786.152">58.693</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="786.152">28</tspan></text>
+<rect x="1260" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1320 1250C1325.52 1250 1330 1245.52 1330 1240C1330 1234.48 1325.52 1230 1320 1230C1314.48 1230 1310 1234.48 1310 1240C1310 1245.52 1314.48 1250 1320 1250Z" fill="#1E1E1E"/>
+<path d="M1270 1240C1270 1231.22 1272.31 1222.6 1276.7 1215C1281.09 1207.4 1287.4 1201.09 1295 1196.7L1311 1224.41C1308.26 1225.99 1305.99 1228.26 1304.41 1231C1302.83 1233.74 1302 1236.84 1302 1240L1270 1240Z" fill="#1E1E1E"/>
+<path d="M1345 1283.3C1337.4 1287.69 1328.78 1290 1320 1290C1311.22 1290 1302.6 1287.69 1295 1283.3L1311 1255.59C1313.74 1257.17 1316.84 1258 1320 1258C1323.16 1258 1326.26 1257.17 1329 1255.59L1345 1283.3Z" fill="#1E1E1E"/>
+<path d="M1345 1196.7C1352.6 1201.09 1358.91 1207.4 1363.3 1215C1367.69 1222.6 1370 1231.22 1370 1240L1338 1240C1338 1236.84 1337.17 1233.74 1335.59 1231C1334.01 1228.26 1331.74 1225.99 1329 1224.41L1345 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1273.4" y="1291.15">Meitnerium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1283.55" y="1260.51">Mt</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1326.37" y="1206.15">(278)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="1206.15">109</tspan></text>
+<rect x="1260" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1291.39" y="1151.15">Iridium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1300.22" y="1120.51">Ir</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1313.1" y="1066.15">192.22</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="1066.15">77</tspan></text>
+<rect x="1260" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1283.82" y="1011.15">Rhodium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1283.96" y="980.508">Rh</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1313.1" y="926.152">102.91</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="926.152">45</tspan></text>
+<rect x="1260" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1293.72" y="871.152">Cobalt</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1283.44" y="840.508">Co</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1313.1" y="786.152">58.933</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="786.152">27</tspan></text>
+<rect x="1120" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1180 1250C1185.52 1250 1190 1245.52 1190 1240C1190 1234.48 1185.52 1230 1180 1230C1174.48 1230 1170 1234.48 1170 1240C1170 1245.52 1174.48 1250 1180 1250Z" fill="#1E1E1E"/>
+<path d="M1130 1240C1130 1231.22 1132.31 1222.6 1136.7 1215C1141.09 1207.4 1147.4 1201.09 1155 1196.7L1171 1224.41C1168.26 1225.99 1165.99 1228.26 1164.41 1231C1162.83 1233.74 1162 1236.84 1162 1240L1130 1240Z" fill="#1E1E1E"/>
+<path d="M1205 1283.3C1197.4 1287.69 1188.78 1290 1180 1290C1171.22 1290 1162.6 1287.69 1155 1283.3L1171 1255.59C1173.74 1257.17 1176.84 1258 1180 1258C1183.16 1258 1186.26 1257.17 1189 1255.59L1205 1283.3Z" fill="#1E1E1E"/>
+<path d="M1205 1196.7C1212.6 1201.09 1218.91 1207.4 1223.3 1215C1227.69 1222.6 1230 1231.22 1230 1240L1198 1240C1198 1236.84 1197.17 1233.74 1195.59 1231C1194.01 1228.26 1191.74 1225.99 1189 1224.41L1205 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1144.36" y="1291.15">Hassium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1143.41" y="1260.51">Hs</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1186.37" y="1206.15">(271)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="1206.15">108</tspan></text>
+<rect x="1120" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1146.15" y="1151.15">Osmium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1143.91" y="1120.51">Os</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1173.1" y="1066.15">190.23</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="1066.15">76</tspan></text>
+<rect x="1120" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1135.97" y="1011.15">Ruthenium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1143.96" y="980.508">Ru</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1173.1" y="926.152">101.07</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="926.152">44</tspan></text>
+<rect x="1120" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1164.07" y="871.152">Iron</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1147.66" y="840.508">Fe</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1173.1" y="786.152">55.845</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="786.152">26</tspan></text>
+<rect x="980" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1040 1250C1045.52 1250 1050 1245.52 1050 1240C1050 1234.48 1045.52 1230 1040 1230C1034.48 1230 1030 1234.48 1030 1240C1030 1245.52 1034.48 1250 1040 1250Z" fill="#1E1E1E"/>
+<path d="M990 1240C990 1231.22 992.31 1222.6 996.699 1215C1001.09 1207.4 1007.4 1201.09 1015 1196.7L1031 1224.41C1028.26 1225.99 1025.99 1228.26 1024.41 1231C1022.83 1233.74 1022 1236.84 1022 1240L990 1240Z" fill="#1E1E1E"/>
+<path d="M1065 1283.3C1057.4 1287.69 1048.78 1290 1040 1290C1031.22 1290 1022.6 1287.69 1015 1283.3L1031 1255.59C1033.74 1257.17 1036.84 1258 1040 1258C1043.16 1258 1046.26 1257.17 1049 1255.59L1065 1283.3Z" fill="#1E1E1E"/>
+<path d="M1065 1196.7C1072.6 1201.09 1078.91 1207.4 1083.3 1215C1087.69 1222.6 1090 1231.22 1090 1240L1058 1240C1058 1236.84 1057.17 1233.74 1055.59 1231C1054.01 1228.26 1051.74 1225.99 1049 1224.41L1065 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1005.61" y="1291.15">Bohrium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1004.02" y="1260.51">Bh</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1046.37" y="1206.15">(270)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="1206.15">107</tspan></text>
+<rect x="980" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1004.06" y="1151.15">Rhenium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1004.58" y="1120.51">Re</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1033.1" y="1066.15">186.21</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="1066.15">75</tspan></text>
+<rect x="980" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M1040 970C1045.52 970 1050 965.523 1050 960C1050 954.477 1045.52 950 1040 950C1034.48 950 1030 954.477 1030 960C1030 965.523 1034.48 970 1040 970Z" fill="#1E1E1E"/>
+<path d="M990 960C990 951.223 992.31 942.601 996.699 935C1001.09 927.399 1007.4 921.087 1015 916.699L1031 944.412C1028.26 945.991 1025.99 948.264 1024.41 951C1022.83 953.736 1022 956.84 1022 960L990 960Z" fill="#1E1E1E"/>
+<path d="M1065 1003.3C1057.4 1007.69 1048.78 1010 1040 1010C1031.22 1010 1022.6 1007.69 1015 1003.3L1031 975.588C1033.74 977.168 1036.84 978 1040 978C1043.16 978 1046.26 977.168 1049 975.588L1065 1003.3Z" fill="#1E1E1E"/>
+<path d="M1065 916.699C1072.6 921.087 1078.91 927.399 1083.3 935C1087.69 942.601 1090 951.223 1090 960L1058 960C1058 956.84 1057.17 953.736 1055.59 951C1054.01 948.264 1051.74 945.991 1049 944.412L1065 916.699Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="992.056" y="1011.15">Technetium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1007.13" y="980.508">Tc</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1056.71" y="926.152">(97)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="926.152">43</tspan></text>
+<rect x="980" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="992.908" y="871.152">Manganese</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="996.904" y="840.508">Mn</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1033.1" y="786.152">54.938</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="786.152">25</tspan></text>
+<rect x="840" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M900 1250C905.523 1250 910 1245.52 910 1240C910 1234.48 905.523 1230 900 1230C894.477 1230 890 1234.48 890 1240C890 1245.52 894.477 1250 900 1250Z" fill="#1E1E1E"/>
+<path d="M850 1240C850 1231.22 852.31 1222.6 856.699 1215C861.087 1207.4 867.399 1201.09 875 1196.7L891 1224.41C888.264 1225.99 885.991 1228.26 884.412 1231C882.832 1233.74 882 1236.84 882 1240L850 1240Z" fill="#1E1E1E"/>
+<path d="M925 1283.3C917.399 1287.69 908.777 1290 900 1290C891.223 1290 882.601 1287.69 875 1283.3L891 1255.59C893.736 1257.17 896.84 1258 900 1258C903.16 1258 906.264 1257.17 909 1255.59L925 1283.3Z" fill="#1E1E1E"/>
+<path d="M925 1196.7C932.601 1201.09 938.913 1207.4 943.301 1215C947.69 1222.6 950 1231.22 950 1240L918 1240C918 1236.84 917.168 1233.74 915.588 1231C914.009 1228.26 911.736 1225.99 909 1224.41L925 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="851.062" y="1291.15">Seaborgium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="864.375" y="1260.51">Sg</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="906.371" y="1206.15">(269)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="1206.15">106</tspan></text>
+<rect x="840" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="861.943" y="1151.15">Tungsten</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="873.75" y="1120.51">W</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="893.1" y="1066.15">183.84</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="1066.15">74</tspan></text>
+<rect x="840" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="847.239" y="1011.15">Molybdenum</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="856.787" y="980.508">Mo</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="903.436" y="926.152">95.95</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="926.152">42</tspan></text>
+<rect x="840" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="857.804" y="871.152">Chromium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="869.385" y="840.508">Cr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="893.1" y="786.152">51.996</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="786.152">24</tspan></text>
+<rect x="700" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M760 1250C765.523 1250 770 1245.52 770 1240C770 1234.48 765.523 1230 760 1230C754.477 1230 750 1234.48 750 1240C750 1245.52 754.477 1250 760 1250Z" fill="#1E1E1E"/>
+<path d="M710 1240C710 1231.22 712.31 1222.6 716.699 1215C721.087 1207.4 727.399 1201.09 735 1196.7L751 1224.41C748.264 1225.99 745.991 1228.26 744.412 1231C742.832 1233.74 742 1236.84 742 1240L710 1240Z" fill="#1E1E1E"/>
+<path d="M785 1283.3C777.399 1287.69 768.777 1290 760 1290C751.223 1290 742.601 1287.69 735 1283.3L751 1255.59C753.736 1257.17 756.84 1258 760 1258C763.16 1258 766.264 1257.17 769 1255.59L785 1283.3Z" fill="#1E1E1E"/>
+<path d="M785 1196.7C792.601 1201.09 798.913 1207.4 803.301 1215C807.69 1222.6 810 1231.22 810 1240L778 1240C778 1236.84 777.168 1233.74 775.588 1231C774.009 1228.26 771.736 1225.99 769 1224.41L785 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="723.771" y="1291.15">Dubnium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="723.613" y="1260.51">Db</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="766.371" y="1206.15">(268)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="1206.15">105</tspan></text>
+<rect x="700" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="722.137" y="1151.15">Tantalum</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="727.568" y="1120.51">Ta</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="753.1" y="1066.15">180.95</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="1066.15">73</tspan></text>
+<rect x="700" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="725.898" y="1011.15">Niobium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="721.943" y="980.508">Nb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="753.1" y="926.152">92.906</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="926.152">41</tspan></text>
+<rect x="700" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="719.351" y="871.152">Vanadium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="740.4" y="840.508">V</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="753.1" y="786.152">50.942</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="786.152">23</tspan></text>
+<rect x="560" y="1180" width="120" height="120" rx="15" fill="#EC6060"/>
+<g opacity="0.2">
+<path d="M620 1250C625.523 1250 630 1245.52 630 1240C630 1234.48 625.523 1230 620 1230C614.477 1230 610 1234.48 610 1240C610 1245.52 614.477 1250 620 1250Z" fill="#1E1E1E"/>
+<path d="M570 1240C570 1231.22 572.31 1222.6 576.699 1215C581.087 1207.4 587.399 1201.09 595 1196.7L611 1224.41C608.264 1225.99 605.991 1228.26 604.412 1231C602.832 1233.74 602 1236.84 602 1240L570 1240Z" fill="#1E1E1E"/>
+<path d="M645 1283.3C637.399 1287.69 628.777 1290 620 1290C611.223 1290 602.601 1287.69 595 1283.3L611 1255.59C613.736 1257.17 616.84 1258 620 1258C623.16 1258 626.264 1257.17 629 1255.59L645 1283.3Z" fill="#1E1E1E"/>
+<path d="M645 1196.7C652.601 1201.09 658.913 1207.4 663.301 1215C667.69 1222.6 670 1231.22 670 1240L638 1240C638 1236.84 637.168 1233.74 635.588 1231C634.009 1228.26 631.736 1225.99 629 1224.41L645 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="561.043" y="1291.15">Rutherfordium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="590.029" y="1260.51">Rf</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="626.371" y="1206.15">(267)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="1206.15">104</tspan></text>
+<rect x="560" y="1040" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="585.336" y="1151.15">Hafnium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="588.066" y="1120.51">Hf</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="613.1" y="1066.15">178.49</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="1066.15">72</tspan></text>
+<rect x="560" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="578.902" y="1011.15">Zirconium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="590.791" y="980.508">Zr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="613.1" y="926.152">91.224</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="926.152">40</tspan></text>
+<rect x="560" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="583.903" y="871.152">Titanium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="593.457" y="840.508">Ti</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="613.1" y="786.152">47.867</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="786.152">22</tspan></text>
+<rect x="2520" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M2580 1610C2585.52 1610 2590 1605.52 2590 1600C2590 1594.48 2585.52 1590 2580 1590C2574.48 1590 2570 1594.48 2570 1600C2570 1605.52 2574.48 1610 2580 1610Z" fill="#1E1E1E"/>
+<path d="M2530 1600C2530 1591.22 2532.31 1582.6 2536.7 1575C2541.09 1567.4 2547.4 1561.09 2555 1556.7L2571 1584.41C2568.26 1585.99 2565.99 1588.26 2564.41 1591C2562.83 1593.74 2562 1596.84 2562 1600L2530 1600Z" fill="#1E1E1E"/>
+<path d="M2605 1643.3C2597.4 1647.69 2588.78 1650 2580 1650C2571.22 1650 2562.6 1647.69 2555 1643.3L2571 1615.59C2573.74 1617.17 2576.84 1618 2580 1618C2583.16 1618 2586.26 1617.17 2589 1615.59L2605 1643.3Z" fill="#1E1E1E"/>
+<path d="M2605 1556.7C2612.6 1561.09 2618.91 1567.4 2623.3 1575C2627.69 1582.6 2630 1591.22 2630 1600L2598 1600C2598 1596.84 2597.17 1593.74 2595.59 1591C2594.01 1588.26 2591.74 1585.99 2589 1584.41L2605 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530.68" y="1651.15">Lawrencium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2552.78" y="1620.51">Lr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2586.37" y="1566.15">(266)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="1566.15">103</tspan></text>
+<rect x="2380" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M2440 1610C2445.52 1610 2450 1605.52 2450 1600C2450 1594.48 2445.52 1590 2440 1590C2434.48 1590 2430 1594.48 2430 1600C2430 1605.52 2434.48 1610 2440 1610Z" fill="#1E1E1E"/>
+<path d="M2390 1600C2390 1591.22 2392.31 1582.6 2396.7 1575C2401.09 1567.4 2407.4 1561.09 2415 1556.7L2431 1584.41C2428.26 1585.99 2425.99 1588.26 2424.41 1591C2422.83 1593.74 2422 1596.84 2422 1600L2390 1600Z" fill="#1E1E1E"/>
+<path d="M2465 1643.3C2457.4 1647.69 2448.78 1650 2440 1650C2431.22 1650 2422.6 1647.69 2415 1643.3L2431 1615.59C2433.74 1617.17 2436.84 1618 2440 1618C2443.16 1618 2446.26 1617.17 2449 1615.59L2465 1643.3Z" fill="#1E1E1E"/>
+<path d="M2465 1556.7C2472.6 1561.09 2478.91 1567.4 2483.3 1575C2487.69 1582.6 2490 1591.22 2490 1600L2458 1600C2458 1596.84 2457.17 1593.74 2455.59 1591C2454.01 1588.26 2451.74 1585.99 2449 1584.41L2465 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2401.04" y="1651.15">Nobelium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2401.88" y="1620.51">No</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2446.37" y="1566.15">(259)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="1566.15">102</tspan></text>
+<rect x="2240" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M2300 1610C2305.52 1610 2310 1605.52 2310 1600C2310 1594.48 2305.52 1590 2300 1590C2294.48 1590 2290 1594.48 2290 1600C2290 1605.52 2294.48 1610 2300 1610Z" fill="#1E1E1E"/>
+<path d="M2250 1600C2250 1591.22 2252.31 1582.6 2256.7 1575C2261.09 1567.4 2267.4 1561.09 2275 1556.7L2291 1584.41C2288.26 1585.99 2285.99 1588.26 2284.41 1591C2282.83 1593.74 2282 1596.84 2282 1600L2250 1600Z" fill="#1E1E1E"/>
+<path d="M2325 1643.3C2317.4 1647.69 2308.78 1650 2300 1650C2291.22 1650 2282.6 1647.69 2275 1643.3L2291 1615.59C2293.74 1617.17 2296.84 1618 2300 1618C2303.16 1618 2306.26 1617.17 2309 1615.59L2325 1643.3Z" fill="#1E1E1E"/>
+<path d="M2325 1556.7C2332.6 1561.09 2338.91 1567.4 2343.3 1575C2347.69 1582.6 2350 1591.22 2350 1600L2318 1600C2318 1596.84 2317.17 1593.74 2315.59 1591C2314.01 1588.26 2311.74 1585.99 2309 1584.41L2325 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2245.31" y="1651.15">Mendelevium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2256.82" y="1620.51">Md</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2306.37" y="1566.15">(258)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="1566.15">101</tspan></text>
+<rect x="2100" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M2160 1610C2165.52 1610 2170 1605.52 2170 1600C2170 1594.48 2165.52 1590 2160 1590C2154.48 1590 2150 1594.48 2150 1600C2150 1605.52 2154.48 1610 2160 1610Z" fill="#1E1E1E"/>
+<path d="M2110 1600C2110 1591.22 2112.31 1582.6 2116.7 1575C2121.09 1567.4 2127.4 1561.09 2135 1556.7L2151 1584.41C2148.26 1585.99 2145.99 1588.26 2144.41 1591C2142.83 1593.74 2142 1596.84 2142 1600L2110 1600Z" fill="#1E1E1E"/>
+<path d="M2185 1643.3C2177.4 1647.69 2168.78 1650 2160 1650C2151.22 1650 2142.6 1647.69 2135 1643.3L2151 1615.59C2153.74 1617.17 2156.84 1618 2160 1618C2163.16 1618 2166.26 1617.17 2169 1615.59L2185 1643.3Z" fill="#1E1E1E"/>
+<path d="M2185 1556.7C2192.6 1561.09 2198.91 1567.4 2203.3 1575C2207.69 1582.6 2210 1591.22 2210 1600L2178 1600C2178 1596.84 2177.17 1593.74 2175.59 1591C2174.01 1588.26 2171.74 1585.99 2169 1584.41L2185 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2123.98" y="1651.15">Fermium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2117.55" y="1620.51">Fm</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2166.37" y="1566.15">(257)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="1566.15">100</tspan></text>
+<rect x="1960" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M2020 1610C2025.52 1610 2030 1605.52 2030 1600C2030 1594.48 2025.52 1590 2020 1590C2014.48 1590 2010 1594.48 2010 1600C2010 1605.52 2014.48 1610 2020 1610Z" fill="#1E1E1E"/>
+<path d="M1970 1600C1970 1591.22 1972.31 1582.6 1976.7 1575C1981.09 1567.4 1987.4 1561.09 1995 1556.7L2011 1584.41C2008.26 1585.99 2005.99 1588.26 2004.41 1591C2002.83 1593.74 2002 1596.84 2002 1600L1970 1600Z" fill="#1E1E1E"/>
+<path d="M2045 1643.3C2037.4 1647.69 2028.78 1650 2020 1650C2011.22 1650 2002.6 1647.69 1995 1643.3L2011 1615.59C2013.74 1617.17 2016.84 1618 2020 1618C2023.16 1618 2026.26 1617.17 2029 1615.59L2045 1643.3Z" fill="#1E1E1E"/>
+<path d="M2045 1556.7C2052.6 1561.09 2058.91 1567.4 2063.3 1575C2067.69 1582.6 2070 1591.22 2070 1600L2038 1600C2038 1596.84 2037.17 1593.74 2035.59 1591C2034.01 1588.26 2031.74 1585.99 2029 1584.41L2045 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1972.33" y="1651.15">Einsteinium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1987.71" y="1620.51">Es</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2026.37" y="1566.15">(252)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="1566.15">99</tspan></text>
+<rect x="1820" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1880 1610C1885.52 1610 1890 1605.52 1890 1600C1890 1594.48 1885.52 1590 1880 1590C1874.48 1590 1870 1594.48 1870 1600C1870 1605.52 1874.48 1610 1880 1610Z" fill="#1E1E1E"/>
+<path d="M1830 1600C1830 1591.22 1832.31 1582.6 1836.7 1575C1841.09 1567.4 1847.4 1561.09 1855 1556.7L1871 1584.41C1868.26 1585.99 1865.99 1588.26 1864.41 1591C1862.83 1593.74 1862 1596.84 1862 1600L1830 1600Z" fill="#1E1E1E"/>
+<path d="M1905 1643.3C1897.4 1647.69 1888.78 1650 1880 1650C1871.22 1650 1862.6 1647.69 1855 1643.3L1871 1615.59C1873.74 1617.17 1876.84 1618 1880 1618C1883.16 1618 1886.26 1617.17 1889 1615.59L1905 1643.3Z" fill="#1E1E1E"/>
+<path d="M1905 1556.7C1912.6 1561.09 1918.91 1567.4 1923.3 1575C1927.69 1582.6 1930 1591.22 1930 1600L1898 1600C1898 1596.84 1897.17 1593.74 1895.59 1591C1894.01 1588.26 1891.74 1585.99 1889 1584.41L1905 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1832.66" y="1651.15">Californium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1849.62" y="1620.51">Cf</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1886.37" y="1566.15">(251)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="1566.15">98</tspan></text>
+<rect x="1680" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1740 1610C1745.52 1610 1750 1605.52 1750 1600C1750 1594.48 1745.52 1590 1740 1590C1734.48 1590 1730 1594.48 1730 1600C1730 1605.52 1734.48 1610 1740 1610Z" fill="#1E1E1E"/>
+<path d="M1690 1600C1690 1591.22 1692.31 1582.6 1696.7 1575C1701.09 1567.4 1707.4 1561.09 1715 1556.7L1731 1584.41C1728.26 1585.99 1725.99 1588.26 1724.41 1591C1722.83 1593.74 1722 1596.84 1722 1600L1690 1600Z" fill="#1E1E1E"/>
+<path d="M1765 1643.3C1757.4 1647.69 1748.78 1650 1740 1650C1731.22 1650 1722.6 1647.69 1715 1643.3L1731 1615.59C1733.74 1617.17 1736.84 1618 1740 1618C1743.16 1618 1746.26 1617.17 1749 1615.59L1765 1643.3Z" fill="#1E1E1E"/>
+<path d="M1765 1556.7C1772.6 1561.09 1778.91 1567.4 1783.3 1575C1787.69 1582.6 1790 1591.22 1790 1600L1758 1600C1758 1596.84 1757.17 1593.74 1755.59 1591C1754.01 1588.26 1751.74 1585.99 1749 1584.41L1765 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1698.91" y="1651.15">Berkelium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1704.81" y="1620.51">Bk</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1746.37" y="1566.15">(247)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="1566.15">97</tspan></text>
+<rect x="1540" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1600 1610C1605.52 1610 1610 1605.52 1610 1600C1610 1594.48 1605.52 1590 1600 1590C1594.48 1590 1590 1594.48 1590 1600C1590 1605.52 1594.48 1610 1600 1610Z" fill="#1E1E1E"/>
+<path d="M1550 1600C1550 1591.22 1552.31 1582.6 1556.7 1575C1561.09 1567.4 1567.4 1561.09 1575 1556.7L1591 1584.41C1588.26 1585.99 1585.99 1588.26 1584.41 1591C1582.83 1593.74 1582 1596.84 1582 1600L1550 1600Z" fill="#1E1E1E"/>
+<path d="M1625 1643.3C1617.4 1647.69 1608.78 1650 1600 1650C1591.22 1650 1582.6 1647.69 1575 1643.3L1591 1615.59C1593.74 1617.17 1596.84 1618 1600 1618C1603.16 1618 1606.26 1617.17 1609 1615.59L1625 1643.3Z" fill="#1E1E1E"/>
+<path d="M1625 1556.7C1632.6 1561.09 1638.91 1567.4 1643.3 1575C1647.69 1582.6 1650 1591.22 1650 1600L1618 1600C1618 1596.84 1617.17 1593.74 1615.59 1591C1614.01 1588.26 1611.74 1585.99 1609 1584.41L1625 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1570.55" y="1651.15">Curium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1554.38" y="1620.51">Cm</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1606.37" y="1566.15">(247)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="1566.15">96</tspan></text>
+<rect x="1400" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1460 1610C1465.52 1610 1470 1605.52 1470 1600C1470 1594.48 1465.52 1590 1460 1590C1454.48 1590 1450 1594.48 1450 1600C1450 1605.52 1454.48 1610 1460 1610Z" fill="#1E1E1E"/>
+<path d="M1410 1600C1410 1591.22 1412.31 1582.6 1416.7 1575C1421.09 1567.4 1427.4 1561.09 1435 1556.7L1451 1584.41C1448.26 1585.99 1445.99 1588.26 1444.41 1591C1442.83 1593.74 1442 1596.84 1442 1600L1410 1600Z" fill="#1E1E1E"/>
+<path d="M1485 1643.3C1477.4 1647.69 1468.78 1650 1460 1650C1451.22 1650 1442.6 1647.69 1435 1643.3L1451 1615.59C1453.74 1617.17 1456.84 1618 1460 1618C1463.16 1618 1466.26 1617.17 1469 1615.59L1485 1643.3Z" fill="#1E1E1E"/>
+<path d="M1485 1556.7C1492.6 1561.09 1498.91 1567.4 1503.3 1575C1507.69 1582.6 1510 1591.22 1510 1600L1478 1600C1478 1596.84 1477.17 1593.74 1475.59 1591C1474.01 1588.26 1471.74 1585.99 1469 1584.41L1485 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1415.84" y="1651.15">Americium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1414.33" y="1620.51">Am</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1466.37" y="1566.15">(243)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="1566.15">95</tspan></text>
+<rect x="1260" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1320 1610C1325.52 1610 1330 1605.52 1330 1600C1330 1594.48 1325.52 1590 1320 1590C1314.48 1590 1310 1594.48 1310 1600C1310 1605.52 1314.48 1610 1320 1610Z" fill="#1E1E1E"/>
+<path d="M1270 1600C1270 1591.22 1272.31 1582.6 1276.7 1575C1281.09 1567.4 1287.4 1561.09 1295 1556.7L1311 1584.41C1308.26 1585.99 1305.99 1588.26 1304.41 1591C1302.83 1593.74 1302 1596.84 1302 1600L1270 1600Z" fill="#1E1E1E"/>
+<path d="M1345 1643.3C1337.4 1647.69 1328.78 1650 1320 1650C1311.22 1650 1302.6 1647.69 1295 1643.3L1311 1615.59C1313.74 1617.17 1316.84 1618 1320 1618C1323.16 1618 1326.26 1617.17 1329 1615.59L1345 1643.3Z" fill="#1E1E1E"/>
+<path d="M1345 1556.7C1352.6 1561.09 1358.91 1567.4 1363.3 1575C1367.69 1582.6 1370 1591.22 1370 1600L1338 1600C1338 1596.84 1337.17 1593.74 1335.59 1591C1334.01 1588.26 1331.74 1585.99 1329 1584.41L1345 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1278.49" y="1651.15">Plutonium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1283.85" y="1620.51">Pu</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1326.37" y="1566.15">(244)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="1566.15">94</tspan></text>
+<rect x="1120" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1180 1610C1185.52 1610 1190 1605.52 1190 1600C1190 1594.48 1185.52 1590 1180 1590C1174.48 1590 1170 1594.48 1170 1600C1170 1605.52 1174.48 1610 1180 1610Z" fill="#1E1E1E"/>
+<path d="M1130 1600C1130 1591.22 1132.31 1582.6 1136.7 1575C1141.09 1567.4 1147.4 1561.09 1155 1556.7L1171 1584.41C1168.26 1585.99 1165.99 1588.26 1164.41 1591C1162.83 1593.74 1162 1596.84 1162 1600L1130 1600Z" fill="#1E1E1E"/>
+<path d="M1205 1643.3C1197.4 1647.69 1188.78 1650 1180 1650C1171.22 1650 1162.6 1647.69 1155 1643.3L1171 1615.59C1173.74 1617.17 1176.84 1618 1180 1618C1183.16 1618 1186.26 1617.17 1189 1615.59L1205 1643.3Z" fill="#1E1E1E"/>
+<path d="M1205 1556.7C1212.6 1561.09 1218.91 1567.4 1223.3 1575C1227.69 1582.6 1230 1591.22 1230 1600L1198 1600C1198 1596.84 1197.17 1593.74 1195.59 1591C1194.01 1588.26 1191.74 1585.99 1189 1584.41L1205 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1135.36" y="1651.15">Neptunium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1141.94" y="1620.51">Np</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1186.37" y="1566.15">(237)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="1566.15">93</tspan></text>
+<rect x="980" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M1040 1610C1045.52 1610 1050 1605.52 1050 1600C1050 1594.48 1045.52 1590 1040 1590C1034.48 1590 1030 1594.48 1030 1600C1030 1605.52 1034.48 1610 1040 1610Z" fill="#1E1E1E"/>
+<path d="M990 1600C990 1591.22 992.31 1582.6 996.699 1575C1001.09 1567.4 1007.4 1561.09 1015 1556.7L1031 1584.41C1028.26 1585.99 1025.99 1588.26 1024.41 1591C1022.83 1593.74 1022 1596.84 1022 1600L990 1600Z" fill="#1E1E1E"/>
+<path d="M1065 1643.3C1057.4 1647.69 1048.78 1650 1040 1650C1031.22 1650 1022.6 1647.69 1015 1643.3L1031 1615.59C1033.74 1617.17 1036.84 1618 1040 1618C1043.16 1618 1046.26 1617.17 1049 1615.59L1065 1643.3Z" fill="#1E1E1E"/>
+<path d="M1065 1556.7C1072.6 1561.09 1078.91 1567.4 1083.3 1575C1087.69 1582.6 1090 1591.22 1090 1600L1058 1600C1058 1596.84 1057.17 1593.74 1055.59 1591C1054.01 1588.26 1051.74 1585.99 1049 1584.41L1065 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1005.84" y="1651.15">Uranium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1020.22" y="1620.51">U</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1033.1" y="1566.15">238.03</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="1566.15">92</tspan></text>
+<rect x="840" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M900 1610C905.523 1610 910 1605.52 910 1600C910 1594.48 905.523 1590 900 1590C894.477 1590 890 1594.48 890 1600C890 1605.52 894.477 1610 900 1610Z" fill="#1E1E1E"/>
+<path d="M850 1600C850 1591.22 852.31 1582.6 856.699 1575C861.087 1567.4 867.399 1561.09 875 1556.7L891 1584.41C888.264 1585.99 885.991 1588.26 884.412 1591C882.832 1593.74 882 1596.84 882 1600L850 1600Z" fill="#1E1E1E"/>
+<path d="M925 1643.3C917.399 1647.69 908.777 1650 900 1650C891.223 1650 882.601 1647.69 875 1643.3L891 1615.59C893.736 1617.17 896.84 1618 900 1618C903.16 1618 906.264 1617.17 909 1615.59L925 1643.3Z" fill="#1E1E1E"/>
+<path d="M925 1556.7C932.601 1561.09 938.913 1567.4 943.301 1575C947.69 1582.6 950 1591.22 950 1600L918 1600C918 1596.84 917.168 1593.74 915.588 1591C914.009 1588.26 911.736 1585.99 909 1584.41L925 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="847.696" y="1651.15">Protactinium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="864.785" y="1620.51">Pa</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="893.1" y="1566.15">231.04</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="1566.15">91</tspan></text>
+<rect x="700" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M760 1610C765.523 1610 770 1605.52 770 1600C770 1594.48 765.523 1590 760 1590C754.477 1590 750 1594.48 750 1600C750 1605.52 754.477 1610 760 1610Z" fill="#1E1E1E"/>
+<path d="M710 1600C710 1591.22 712.31 1582.6 716.699 1575C721.087 1567.4 727.399 1561.09 735 1556.7L751 1584.41C748.264 1585.99 745.991 1588.26 744.412 1591C742.832 1593.74 742 1596.84 742 1600L710 1600Z" fill="#1E1E1E"/>
+<path d="M785 1643.3C777.399 1647.69 768.777 1650 760 1650C751.223 1650 742.601 1647.69 735 1643.3L751 1615.59C753.736 1617.17 756.84 1618 760 1618C763.16 1618 766.264 1617.17 769 1615.59L785 1643.3Z" fill="#1E1E1E"/>
+<path d="M785 1556.7C792.601 1561.09 798.913 1567.4 803.301 1575C807.69 1582.6 810 1591.22 810 1600L778 1600C778 1596.84 777.168 1593.74 775.588 1591C774.009 1588.26 771.736 1585.99 769 1584.41L785 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="725.775" y="1651.15">Thorium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="724.58" y="1620.51">Th</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="753.1" y="1566.15">232.04</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="1566.15">90</tspan></text>
+<rect x="560" y="1540" width="120" height="120" rx="15" fill="#ECA360"/>
+<g opacity="0.2">
+<path d="M620 1610C625.523 1610 630 1605.52 630 1600C630 1594.48 625.523 1590 620 1590C614.477 1590 610 1594.48 610 1600C610 1605.52 614.477 1610 620 1610Z" fill="#1E1E1E"/>
+<path d="M570 1600C570 1591.22 572.31 1582.6 576.699 1575C581.087 1567.4 587.399 1561.09 595 1556.7L611 1584.41C608.264 1585.99 605.991 1588.26 604.412 1591C602.832 1593.74 602 1596.84 602 1600L570 1600Z" fill="#1E1E1E"/>
+<path d="M645 1643.3C637.399 1647.69 628.777 1650 620 1650C611.223 1650 602.601 1647.69 595 1643.3L611 1615.59C613.736 1617.17 616.84 1618 620 1618C623.16 1618 626.264 1617.17 629 1615.59L645 1643.3Z" fill="#1E1E1E"/>
+<path d="M645 1556.7C652.601 1561.09 658.913 1567.4 663.301 1575C667.69 1582.6 670 1591.22 670 1600L638 1600C638 1596.84 637.168 1593.74 635.588 1591C634.009 1588.26 631.736 1585.99 629 1584.41L645 1556.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="583.561" y="1651.15">Actinium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="584.199" y="1620.51">Ac</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="626.371" y="1566.15">(227)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="1566.15">89</tspan></text>
+<rect x="2520" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2544.01" y="1511.15">Lutetium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2547.3" y="1480.51">Lu</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2573.1" y="1426.15">174.97</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2530" y="1426.15">71</tspan></text>
+<rect x="2380" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2399.98" y="1511.15">Ytterbium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2404.55" y="1480.51">Yb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2433.1" y="1426.15">173.05</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2390" y="1426.15">70</tspan></text>
+<rect x="2240" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2266.72" y="1511.15">Thulium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2256.82" y="1480.51">Tm</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2293.1" y="1426.15">168.93</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2250" y="1426.15">69</tspan></text>
+<rect x="2100" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2131.36" y="1511.15">Erbium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="2132.14" y="1480.51">Er</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2153.1" y="1426.15">167.26</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2110" y="1426.15">68</tspan></text>
+<rect x="1960" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1983.17" y="1511.15">Holmium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1981.88" y="1480.51">Ho</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="2013.1" y="1426.15">164.93</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1970" y="1426.15">67</tspan></text>
+<rect x="1820" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1831.84" y="1511.15">Dysprosium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1845.37" y="1480.51">Dy</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1873.1" y="1426.15">162.50</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1830" y="1426.15">66</tspan></text>
+<rect x="1680" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1706.39" y="1511.15">Terbium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1704.52" y="1480.51">Tb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1733.1" y="1426.15">158.93</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1690" y="1426.15">65</tspan></text>
+<rect x="1540" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1553.87" y="1511.15">Gadolinium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1562.65" y="1480.51">Gd</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1593.1" y="1426.15">157.25</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1550" y="1426.15">64</tspan></text>
+<rect x="1400" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1421.44" y="1511.15">Europium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1426.57" y="1480.51">Eu</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1453.1" y="1426.15">151.96</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="1426.15">63</tspan></text>
+<rect x="1260" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1278.51" y="1511.15">Samarium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1275.53" y="1480.51">Sm</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1313.1" y="1426.15">150.36</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1270" y="1426.15">62</tspan></text>
+<rect x="1120" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<g opacity="0.2">
+<path d="M1180 1470C1185.52 1470 1190 1465.52 1190 1460C1190 1454.48 1185.52 1450 1180 1450C1174.48 1450 1170 1454.48 1170 1460C1170 1465.52 1174.48 1470 1180 1470Z" fill="#1E1E1E"/>
+<path d="M1130 1460C1130 1451.22 1132.31 1442.6 1136.7 1435C1141.09 1427.4 1147.4 1421.09 1155 1416.7L1171 1444.41C1168.26 1445.99 1165.99 1448.26 1164.41 1451C1162.83 1453.74 1162 1456.84 1162 1460L1130 1460Z" fill="#1E1E1E"/>
+<path d="M1205 1503.3C1197.4 1507.69 1188.78 1510 1180 1510C1171.22 1510 1162.6 1507.69 1155 1503.3L1171 1475.59C1173.74 1477.17 1176.84 1478 1180 1478C1183.16 1478 1186.26 1477.17 1189 1475.59L1205 1503.3Z" fill="#1E1E1E"/>
+<path d="M1205 1416.7C1212.6 1421.09 1218.91 1427.4 1223.3 1435C1227.69 1442.6 1230 1451.22 1230 1460L1198 1460C1198 1456.84 1197.17 1453.74 1195.59 1451C1194.01 1448.26 1191.74 1445.99 1189 1444.41L1205 1416.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1129.98" y="1511.15">Promethium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1134.68" y="1480.51">Pm</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1186.37" y="1426.15">(145)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1130" y="1426.15">61</tspan></text>
+<rect x="980" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="991.08" y="1511.15">Neodymium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="1001.91" y="1480.51">Nd</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1033.1" y="1426.15">144.24</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="990" y="1426.15">60</tspan></text>
+<rect x="840" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="839.048" y="1511.15">Praseodymium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="869.678" y="1480.51">Pr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="893.1" y="1426.15">140.91</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="850" y="1426.15">59</tspan></text>
+<rect x="700" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="730.732" y="1511.15">Cerium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="724.17" y="1480.51">Ce</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="753.1" y="1426.15">140.12</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="710" y="1426.15">58</tspan></text>
+<rect x="560" y="1400" width="120" height="120" rx="15" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="574.473" y="1511.15">Lanthanum</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="587.715" y="1480.51">La</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="613.1" y="1426.15">138.91</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="570" y="1426.15">57</tspan></text>
+<rect x="420" y="900" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="449.906" y="1011.15">Yttrium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="461.426" y="980.508">Y</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="473.1" y="926.152">88.906</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="430" y="926.152">39</tspan></text>
+<rect x="420" y="760" width="120" height="120" rx="15" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="439.605" y="871.152">Scandium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="445.869" y="840.508">Sc</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="473.1" y="786.152">44.956</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="430" y="786.152">21</tspan></text>
+<rect x="280" y="480" width="120" height="120" rx="15" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="301.495" y="591.152">Beryllium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="304.639" y="560.508">Be</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="333.1" y="506.152">9.0122</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="506.152">4</tspan></text>
+<rect x="280" y="1180" width="120" height="120" rx="15" fill="#F27EB6"/>
+<g opacity="0.2">
+<path d="M340 1250C345.523 1250 350 1245.52 350 1240C350 1234.48 345.523 1230 340 1230C334.477 1230 330 1234.48 330 1240C330 1245.52 334.477 1250 340 1250Z" fill="#1E1E1E"/>
+<path d="M290 1240C290 1231.22 292.31 1222.6 296.699 1215C301.087 1207.4 307.399 1201.09 315 1196.7L331 1224.41C328.264 1225.99 325.991 1228.26 324.412 1231C322.832 1233.74 322 1236.84 322 1240L290 1240Z" fill="#1E1E1E"/>
+<path d="M365 1283.3C357.399 1287.69 348.777 1290 340 1290C331.223 1290 322.601 1287.69 315 1283.3L331 1255.59C333.736 1257.17 336.84 1258 340 1258C343.16 1258 346.264 1257.17 349 1255.59L365 1283.3Z" fill="#1E1E1E"/>
+<path d="M365 1196.7C372.601 1201.09 378.913 1207.4 383.301 1215C387.69 1222.6 390 1231.22 390 1240L358 1240C358 1236.84 357.168 1233.74 355.588 1231C354.009 1228.26 351.736 1225.99 349 1224.41L365 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="309.124" y="1291.15">Radium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="304.727" y="1260.51">Ra</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="346.371" y="1206.15">(226)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="1206.15">88</tspan></text>
+<rect x="280" y="1040" width="120" height="120" rx="15" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="310.917" y="1151.15">Barium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="304.785" y="1120.51">Ba</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="333.1" y="1066.15">137.33</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="1066.15">56</tspan></text>
+<rect x="280" y="900" width="120" height="120" rx="15" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="299.843" y="1011.15">Strontium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="310.527" y="980.508">Sr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="343.436" y="926.152">87.62</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="926.152">38</tspan></text>
+<rect x="280" y="760" width="120" height="120" rx="15" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="306.997" y="871.152">Calcium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="304.316" y="840.508">Ca</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="333.1" y="786.152">40.078</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="786.152">20</tspan></text>
+<rect x="280" y="620" width="120" height="120" rx="15" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="292.407" y="731.152">Magnesium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="296.582" y="700.508">Mg</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="333.1" y="646.152">24.305</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="290" y="646.152">12</tspan></text>
+<rect x="140" y="1180" width="120" height="120" rx="15" fill="#EC60D6"/>
+<g opacity="0.2">
+<path d="M200 1250C205.523 1250 210 1245.52 210 1240C210 1234.48 205.523 1230 200 1230C194.477 1230 190 1234.48 190 1240C190 1245.52 194.477 1250 200 1250Z" fill="#1E1E1E"/>
+<path d="M150 1240C150 1231.22 152.31 1222.6 156.699 1215C161.087 1207.4 167.399 1201.09 175 1196.7L191 1224.41C188.264 1225.99 185.991 1228.26 184.412 1231C182.832 1233.74 182 1236.84 182 1240L150 1240Z" fill="#1E1E1E"/>
+<path d="M225 1283.3C217.399 1287.69 208.777 1290 200 1290C191.223 1290 182.601 1287.69 175 1283.3L191 1255.59C193.736 1257.17 196.84 1258 200 1258C203.16 1258 206.264 1257.17 209 1255.59L225 1283.3Z" fill="#1E1E1E"/>
+<path d="M225 1196.7C232.601 1201.09 238.913 1207.4 243.301 1215C247.69 1222.6 250 1231.22 250 1240L218 1240C218 1236.84 217.168 1233.74 215.588 1231C214.009 1228.26 211.736 1225.99 209 1224.41L225 1196.7Z" fill="#1E1E1E"/>
+</g>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="162.251" y="1291.15">Francium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="172.93" y="1260.51">Fr</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="206.371" y="1206.15">(223)</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="1206.15">87</tspan></text>
+<rect x="140" y="1040" width="120" height="120" rx="15" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="164.589" y="1151.15">Caesium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="164.961" y="1120.51">Cs</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="193.1" y="1066.15">132.91</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="1066.15">55</tspan></text>
+<rect x="140" y="900" width="120" height="120" rx="15" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="161.451" y="1011.15">Rubidium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="163.906" y="980.508">Rb</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="193.1" y="926.152">85.468</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="926.152">37</tspan></text>
+<rect x="140" y="760" width="120" height="120" rx="15" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="156.846" y="871.152">Potassium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="180.928" y="840.508">K</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="193.1" y="786.152">39.098</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="786.152">19</tspan></text>
+<rect x="140" y="620" width="120" height="120" rx="15" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="169.08" y="731.152">Sodium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="162.764" y="700.508">Na</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="193.1" y="646.152">22.990</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="646.152">11</tspan></text>
+<rect x="140" y="480" width="120" height="120" rx="15" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="169.432" y="591.152">Lithium</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="175.83" y="560.508">Li</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="203.436" y="506.152">6.940</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="506.152">3</tspan></text>
+<rect x="140" y="340" width="120" height="120" rx="15" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="160.81" y="451.152">Hydrogen</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="178.818" y="420.508">H</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="203.436" y="366.152">1.008</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="150" y="366.152">1</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="1261.88">7</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="1121.88">6</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="981.875">5</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="841.875">4</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="701.875">3</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="561.875">2</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="71.625" y="421.875">1</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2543.25" y="311.875">18</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2403.25" y="451.875">17</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2263.25" y="451.875">16</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2123.25" y="451.875">15</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1983.25" y="451.875">14</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1843.25" y="451.875">13</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1703.25" y="731.875">12</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1563.25" y="731.875">11</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1423.25" y="731.875">10</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1301.62" y="731.875">9</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1161.62" y="731.875">8</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="1021.62" y="731.875">7</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="881.625" y="731.875">6</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="741.625" y="731.875">5</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="601.625" y="731.875">4</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="461.625" y="731.875">3</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="321.625" y="451.875">2</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="181.625" y="311.875">1</tspan></text>
+<rect x="900" y="200" width="360" height="360" rx="60" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="54" font-weight="bold" letter-spacing="0em"><tspan x="992.435" y="533.457">Carbon</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="180" font-weight="bold" letter-spacing="0em"><tspan x="1021.11" y="441.523">C</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="54" font-weight="bold" letter-spacing="0em"><tspan x="1059.3" y="278.457">12.011</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="54" font-weight="bold" letter-spacing="0em"><tspan x="930" y="278.457">6</tspan></text>
+<path d="M1300 520H1220L1180 480" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<path d="M1340 525C1342.76 525 1345 522.761 1345 520C1345 517.239 1342.76 515 1340 515C1337.24 515 1335 517.239 1335 520C1335 522.761 1337.24 525 1340 525Z" fill="#1E1E1E" fill-opacity="0.5"/>
+<path d="M1315 520C1315 515.612 1316.16 511.3 1318.35 507.5C1320.54 503.7 1323.7 500.544 1327.5 498.349L1335.5 512.206C1334.13 512.996 1333 514.132 1332.21 515.5C1331.42 516.868 1331 518.42 1331 520L1315 520Z" fill="#1E1E1E" fill-opacity="0.5"/>
+<path d="M1352.5 541.651C1348.7 543.845 1344.39 545 1340 545C1335.61 545 1331.3 543.845 1327.5 541.651L1335.5 527.794C1336.87 528.584 1338.42 529 1340 529C1341.58 529 1343.13 528.584 1344.5 527.794L1352.5 541.651Z" fill="#1E1E1E" fill-opacity="0.5"/>
+<path d="M1352.5 498.349C1356.3 500.544 1359.46 503.7 1361.65 507.5C1363.84 511.3 1365 515.612 1365 520L1349 520C1349 518.42 1348.58 516.868 1347.79 515.5C1347 514.132 1345.87 512.996 1344.5 512.206L1352.5 498.349Z" fill="#1E1E1E" fill-opacity="0.5"/>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="533.672">radioactive</tspan></text>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="1378.52" y="533.672">=</tspan></text>
+<path d="M1300 380H1275H1175H1150" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="1310" y="393.672">symbol</tspan></text>
+<path d="M975 515H937.5H902.5H860" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="749.922" y="528.672">name</tspan></text>
+<path d="M1300 260H1275H1255H1240" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="1310" y="273.672">weight [u]</tspan></text>
+<path d="M915 260H900H880H860" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="578.672" y="273.672">atomic number</tspan></text>
+<path d="M1020 140H860" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="96" font-weight="bold" letter-spacing="0em"><tspan x="1024.88" y="176.312">14</tspan></text>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="745.586" y="153.672">group</tspan></text>
+<path d="M815 380H740" stroke="#1E1E1E" stroke-opacity="0.33" stroke-width="6" stroke-linecap="round"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="96" font-weight="bold" letter-spacing="0em"><tspan x="824.875" y="412.812">2</tspan></text>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="605.547" y="393.672">period</tspan></text>
+<rect x="2720" y="1220" width="400" height="60" rx="20" fill="#63CFC2"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2849.26" y="1260.25">metalloids</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="2825.68" y="1183.67">metalloids</tspan></text>
+<rect x="2720" y="1010" width="400" height="60" rx="20" fill="#EC9FFF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2831.07" y="1050.25">noble gasses</tspan></text>
+<rect x="2720" y="930" width="400" height="60" rx="20" fill="#1E1E1E"/>
+<text fill="#F0F0F0" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2831.07" y="970.254">noble gasses</tspan></text>
+<rect x="2720" y="850" width="400" height="60" rx="20" fill="#65CF63"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2809.55" y="890.254">other nonmetals</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="2825.12" y="813.672">nonmetals</tspan></text>
+<rect x="2720" y="620" width="400" height="60" rx="20" fill="#63A8CF"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2770.41" y="660.254">post-transition metals</tspan></text>
+<rect x="2800" y="540" width="320" height="60" rx="20" fill="#ECA360"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2898.1" y="580.254">actinoids</tspan></text>
+<rect x="2800" y="460" width="320" height="60" rx="20" fill="#ECD660"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2881.07" y="500.254">lanthanoids</tspan></text>
+<rect x="2720" y="540" width="60" height="60" rx="20" fill="#EC6060"/>
+<rect x="2720" y="460" width="60" height="60" rx="20" fill="#EC6060"/>
+<rect x="2720" y="380" width="400" height="60" rx="20" fill="#EC6060"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2806.02" y="420.254">transition metals</tspan></text>
+<rect x="2720" y="300" width="400" height="60" rx="20" fill="#F27EB6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2778.69" y="340.254">alkaline earth metals</tspan></text>
+<rect x="2720" y="220" width="400" height="60" rx="20" fill="#EC60D6"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="2834.41" y="260.254">alkali metals</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" font-weight="bold" letter-spacing="0em"><tspan x="2858.83" y="183.672">metals</tspan></text>
+<text fill="#1E1E1E" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="3091.3" y="1754.65">08/2025&#10;</tspan><tspan x="2826.86" y="1775.65">source: wikipedia.org/wiki/periodic_table</tspan></text>
+</svg>
