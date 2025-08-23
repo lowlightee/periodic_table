@@ -1,5 +1,5 @@
 # Periodic Table
-Periodic table of elements in both English and Polish.
+Periodic table of elements in English and Polish.
 
 ![](https://raw.githubusercontent.com/lowlightee/periodic_table/refs/heads/main/exported_08-2025/table_en_08-2025_6400x3600.png)
 ![](https://raw.githubusercontent.com/lowlightee/periodic_table/refs/heads/main/exported_08-2025/table_pl_08-2025_6400x3600.png)
