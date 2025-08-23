@@ -1,8 +1,8 @@
 # Periodic Table
 Periodic table of elements in both English and Polish.
 
-![png 3200x1800](exported_08-2025/table_en_08-2025_6400x3600.png)
-![png 3200x1800](exported_08-2025/table_pl_08-2025_6400x3600.png)
+![](https://raw.githubusercontent.com/lowlightee/periodic_table/refs/heads/main/exported_08-2025/table_en_08-2025_6400x3600.png)
+![](https://raw.githubusercontent.com/lowlightee/periodic_table/refs/heads/main/exported_08-2025/table_pl_08-2025_6400x3600.png)
 
 version 08-2025:  
 &nbsp;&nbsp;&nbsp;&nbsp;english:  
